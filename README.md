@@ -16,7 +16,7 @@
 
     window.onload = function () {
       const offers = [
-        "https://prev.affomelody.com/1pvzma",
+        "https://prev.affomelody.com/fFVv28",
       
       
         "https://grzvkg.amurllove.com/?utm_source=da57dc555e50572d&ban=tiktok&j1=1&s1=212364&s2=2140295"
